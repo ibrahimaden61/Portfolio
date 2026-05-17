@@ -51,9 +51,8 @@ I'm always expanding my skill set and exploring new technologies to stay at the 
 I'd love to connect with fellow developers, share ideas, and collaborate on exciting projects!
 
 - **GitHub:** [@ibrahimaden61](https://github.com/ibrahimaden61)
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
+- **Email:** ibrahimaden61@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-aden/
 
 ## 📚 Recent Activity
 
