@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ibrahim Aden
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to meaningful projects.
+Welcome to my GitHub profile! I'm a learning developer dedicated to building innovative solutions and contributing to meaningful projects.
 
 ## 🚀 About Me
 
@@ -26,10 +26,7 @@ I'm driven by a passion for clean code, problem-solving, and continuous learning
 - **Databases:** PostgreSQL, MongoDB
 
 ### Tools & Platforms
-- Git & GitHub
-- Docker
-- REST APIs
-- Linux/Unix
+- GitHub
 
 ## 📈 GitHub Stats
 
